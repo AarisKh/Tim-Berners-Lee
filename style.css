@@ -1,6 +1,7 @@
 body{
     margin:0;
     padding-top:800px;
+    text-align:center;
 }
 img{
     width:180px;
@@ -65,4 +66,19 @@ p{
 }
 .links:hover{
     background-color:darkturquoise;
+}
+.line{
+    width:90px;
+    height:6px;
+    background-color:darkslategray;
+}
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:yellow;
+}
+html{
+    scroll-behavior:smooth;
+    
 }
