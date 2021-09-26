@@ -80,5 +80,10 @@ a{
 }
 html{
     scroll-behavior:smooth;
-    
+}
+#contacts{
+    background:lime;
+}
+.contacts1 h3{
+    display:inline;
 }
